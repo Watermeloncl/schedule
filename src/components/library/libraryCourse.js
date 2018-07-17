@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
-import Arrow from '../arrow';
 import Icon from '../icon';
+import Arrow from '../arrow';
 import Action from '../action';
 
-class libraryCourse extends Component {
+class LibraryCourse extends Component {
     render() {
         return (
             <div className="library-course">
@@ -19,8 +19,8 @@ class libraryCourse extends Component {
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin venenatis a purus eget laoreet. Vestibulum in fringilla sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce vehicula ultricies ultrices.</p>
                 </div>
             </div>
-        )
+        );
     }
 }
 
-export default libraryCourse;
+export default LibraryCourse;
