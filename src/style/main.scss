@@ -14,6 +14,7 @@
     display: grid;
     grid-template-columns: [library-s] 1fr 1fr [library-e schedule-s] 1fr [schedule-e];
     grid-template-rows: 1fr;
+
 }
 
 .schedule {
@@ -21,6 +22,7 @@
     position: relative;
     height: 100%;
     width: 100%;
+    padding: 100px;
 }
 
 
