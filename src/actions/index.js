@@ -73,6 +73,12 @@ export function fetchCourses() {
                 title: 'Dissecting Rails 5',
                 description: 'Learn how to build powerful applications using this comprehensive guide to the Ruby on Rails web framework.',
                 enrolled: false
+            },
+            {
+                id: 10,
+                title: 'Alchemy 4',
+                description: 'Learn an advanced method of alchemy, for experts only. Alchemy 1, 2, and 3 required for this course. Must have own cauldron and stirring spoon.',
+                enrolled: false
             }
         ]
     }
